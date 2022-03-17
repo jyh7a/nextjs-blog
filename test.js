@@ -1,0 +1,3 @@
+allPostsData
+getSortedPostsData
+posts
